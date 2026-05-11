@@ -25,3 +25,11 @@ Here a list of possible print:
     </ul>
 
 For this exemple we will use "println!()"<br>
+
+## Librairy and Binary
+
+Binary crate is an exec program like "main.rs"
+    <ul>
+        <li>Binary = exec (with main), run by user</li>
+        <li>Library = reusable code, not runnable</li>
+    </ul>
