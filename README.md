@@ -24,4 +24,4 @@ Here a list of possible print:
         <li>eprintln!: same as eprint! but a newline is appended.</li>
     </ul>
 
-For this exemple we will use "printIn!()"<br>
+For this exemple we will use "println!()"<br>
