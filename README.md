@@ -33,3 +33,10 @@ Binary crate is an exec program like "main.rs"
         <li>Binary = exec (with main), run by user</li>
         <li>Library = reusable code, not runnable</li>
     </ul>
+
+## macro better than function ?
+
+Macro is more complex than function but,
+it can accept an undefine number of argument,
+and he's check at the runtime,
+it can handle the code
